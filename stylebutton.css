@@ -1,0 +1,83 @@
+body{
+    background-color:rgb(149, 37, 119);
+}
+.button1{
+    padding-left:15px;
+    cursor:pointer;
+    color:white;
+    background-color:black;
+    width:150px;
+    height:55px;
+}
+
+.button1:hover{
+    opacity:0.3;
+}
+.button2{
+    padding-left:30px;
+    cursor:pointer;
+    font: bold;
+    font-size: medium;
+    color:black;
+    background-color:rgb(230, 233, 25);
+    width:200px;
+    height:55px;
+    border-radius:30px;
+}
+.button3{
+    padding-left:15px;
+    cursor:pointer;
+    font: bold;
+    font-size: medium;
+    color:white;
+    background-color:rgb(38, 237, 38);
+    width:200px;
+    height:55px;
+    border-radius:5px;
+    box-shadow:2px 4px 3px rgb(139, 108, 68);
+}
+.button4{
+    padding-left:30px;
+    cursor:pointer;
+    font: bold;
+    font-size: medium;
+    color:white;
+    background-color:rgb(138, 45, 175);
+    width:200px;
+    height:55px;
+    border-radius:3px;
+}
+.button5{
+    padding-left:30px;
+    cursor:pointer;
+    font: bold;
+    font-size: medium;
+    color:grey;
+    background-color:rgb(243, 241, 244);
+    width:200px;
+    height:55px;
+    border-radius:3px;
+}
+.button6{
+    padding-left:30px;
+    cursor:pointer;
+    font: bold;
+    font-size: medium;
+    color:white;
+    background-color:rgb(0, 0, 244);
+    width:250px;
+    height:55px;
+    border-radius:50px;
+}
+.button7{
+    padding-left:10px;
+    cursor:pointer;
+    font: bold;
+    font-size: medium;
+    color:blue;
+    background-color:rgb(234, 234, 239);
+    width:75px;
+    height:55px;
+    border-radius:30px;
+    border-color: blue;
+}
